@@ -1,0 +1,19 @@
+.contactsContainer{
+    color: black;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap:100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: x-large;
+    margin: 150px 80px;
+    background-color: rgb(243, 207, 194);
+    border-radius: 20px;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(105, 76, 76);
+}

@@ -1,0 +1,19 @@
+.homecontainer {
+    position: relative;
+    height: 100vh;
+    background-image: url('/main-picture.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: left;
+    align-items: top;
+    color: white;
+    font-size:x-large;
+}
+
+.textcontainer{
+    text-shadow: 5px 5px 10px black;
+    margin-left: 80px;
+    margin-top: 120px;
+
+}

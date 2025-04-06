@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5BAi+R8TdGCEOCFsXpkNFbVNIo/y9DPGQk7ieT/oOSM=",
+  "Source": "RestaurantReservationAPI",
+  "BasePath": "_content/RestaurantReservationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
