@@ -12,7 +12,7 @@ using RestaurantReservationApi.Data;
 namespace RestaurantReservationAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250405224829_InitialCreate")]
+    [Migration("20250407231841_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -84,13 +84,9 @@ namespace RestaurantReservationAPI.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<byte[]>("PasswordHash")
+                    b.Property<string>("Password")
                         .IsRequired()
-                        .HasColumnType("varbinary(max)");
-
-                    b.Property<byte[]>("PasswordSalt")
-                        .IsRequired()
-                        .HasColumnType("varbinary(max)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Role")
                         .IsRequired()

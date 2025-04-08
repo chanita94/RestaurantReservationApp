@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|c:\\users\\chani\\onedrive\\desktop\\reac-reservation-system\\server\\restaurantreservationapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Dtos\\UserRegisterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\UserRegisterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|c:\\users\\chani\\onedrive\\desktop\\reac-reservation-system\\server\\restaurantreservationapi\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|solutionrelative:models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Dtos\\UserLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dtos\\UserLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|c:\\users\\chani\\onedrive\\desktop\\reac-reservation-system\\server\\restaurantreservationapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|c:\\users\\chani\\onedrive\\desktop\\reac-reservation-system\\server\\restaurantreservationapi\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|solutionrelative:models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|c:\\users\\chani\\onedrive\\desktop\\reac-reservation-system\\server\\restaurantreservationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|c:\\users\\chani\\onedrive\\desktop\\reac-reservation-system\\server\\restaurantreservationapi\\models\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B0ED8E-384D-4566-AB62-06FD108E3F38}|RestaurantReservationAPI.csproj|solutionrelative:models\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,80 +42,93 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Dtos\\UserRegisterDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\UserRegisterDto.cs",
-              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Dtos\\UserRegisterDto.cs",
-              "RelativeToolTip": "Models\\Dtos\\UserRegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T22:37:36.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserLoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Dtos\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dtos\\UserLoginDto.cs",
-              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Dtos\\UserLoginDto.cs",
-              "RelativeToolTip": "Models\\Dtos\\UserLoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T22:37:34.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T22:37:13.181Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T21:35:38.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Table.cs",
-              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Table.cs",
-              "RelativeDocumentMoniker": "Models\\Table.cs",
-              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Table.cs",
-              "RelativeToolTip": "Models\\Table.cs",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T22:37:08.806Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T21:35:34.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Reservation.cs",
-              "RelativeDocumentMoniker": "Models\\Reservation.cs",
-              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Reservation.cs",
-              "RelativeToolTip": "Models\\Reservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T22:37:06.79Z",
+              "WhenOpened": "2025-04-05T22:01:44.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:12:44.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Dtos\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Dtos\\UserLoginDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:11:20.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\User.cs*",
-              "RelativeToolTip": "Models\\User.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Dtos\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Dtos\\UserRegisterDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T22:34:56.91Z",
+              "WhenOpened": "2025-04-05T22:10:59.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "Models\\Table.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\Models\\Table.cs",
+              "RelativeToolTip": "Models\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:46:22.262Z",
               "EditorCaption": ""
             }
           ]

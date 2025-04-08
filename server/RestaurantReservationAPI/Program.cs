@@ -47,7 +47,7 @@ namespace RestaurantReservationApi
             builder.Services.AddAuthorization();
 
             var app = builder.Build();
-
+            app.UseCors("AllowFrontend");
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
@@ -58,7 +58,7 @@ namespace RestaurantReservationApi
             //app.UseHttpsRedirection();
             app.UseAuthentication();
             app.UseAuthorization();
-            app.UseCors("AllowFrontend");
+
 
 
             app.MapControllers();

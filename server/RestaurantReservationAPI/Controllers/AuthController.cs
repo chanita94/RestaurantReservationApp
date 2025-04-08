@@ -34,13 +34,11 @@ namespace RestaurantReservationApi.Controllers
 
             // Set the role for the new user
             var role = adminExists ? "user" : "admin"; // First user gets 'admin', others get 'user'
-            CreatePasswordHash(request.Password, out byte[] passwordHash, out byte[] passwordSalt);
 
             var user = new User
             {
                 Username = request.Username,
-                PasswordHash = passwordHash,
-                PasswordSalt = passwordSalt,
+                Password = request.Password,
                 Role = role
             };
 
@@ -53,28 +51,31 @@ namespace RestaurantReservationApi.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login(UserLoginDto request)
         {
-            var user = await _context.Users.FirstOrDefaultAsync(u => u.Username == request.Username);
-            if (user == null || !VerifyPasswordHash(request.Password, user.PasswordHash, user.PasswordSalt))
-                return Unauthorized("Invalid username or password.");
+            try
+            {
+                var user = await _context.Users.FirstOrDefaultAsync(u => u.Username == request.Username);
 
-            string token = CreateToken(user);
-            return Ok(new { token });
+                if (user == null || user.Password != request.Password)
+                    return Unauthorized("Invalid username or password.");
+
+
+                string token = CreateToken(user);
+                return Ok(new { token });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new
+                {
+                    message = "Something went wrong during login.",
+                    error = ex.Message,
+                    inner = ex.InnerException?.Message
+                });
+            }
         }
 
-        // Password hashing
-        private void CreatePasswordHash(string password, out byte[] hash, out byte[] salt)
-        {
-            using var hmac = new HMACSHA512();
-            salt = hmac.Key;
-            hash = hmac.ComputeHash(Encoding.UTF8.GetBytes(password));
-        }
 
-        private bool VerifyPasswordHash(string password, byte[] hash, byte[] salt)
-        {
-            using var hmac = new HMACSHA512(salt);
-            var computedHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(password));
-            return computedHash.SequenceEqual(hash);
-        }
+        
+
 
         // Token creation
         private string CreateToken(User user)

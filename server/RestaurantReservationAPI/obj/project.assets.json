@@ -5069,11 +5069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\RestaurantReservationAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Chani\\OneDrive\\Desktop\\RestaurantReservationApp\\server\\RestaurantReservationAPI\\RestaurantReservationAPI.csproj",
       "projectName": "RestaurantReservationAPI",
-      "projectPath": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\RestaurantReservationAPI.csproj",
+      "projectPath": "C:\\Users\\Chani\\OneDrive\\Desktop\\RestaurantReservationApp\\server\\RestaurantReservationAPI\\RestaurantReservationAPI.csproj",
       "packagesPath": "C:\\Users\\Chani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chani\\OneDrive\\Desktop\\Reac-Reservation-System\\server\\RestaurantReservationAPI\\obj\\",
+      "outputPath": "C:\\Users\\Chani\\OneDrive\\Desktop\\RestaurantReservationApp\\server\\RestaurantReservationAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
